@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+  url: https://author-p42403-e1313111.adobeaemcloud.com/bin/franklin.delivery/edodemurureply/eds-forms-test-project/main
+  type: "markup"
+  suffix: ".html"
